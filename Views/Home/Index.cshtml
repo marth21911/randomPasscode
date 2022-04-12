@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <img src="https://media2.giphy.com/media/f9ZLRWMBjKAbe07PtH/giphy_s.gif" alt="hotyb">
+    <div class="text-center">
+        <h3>Random Password Generator</h3>
+        <div>
+            <h1>@ViewBag.Code </h1>
+            @* <button class= "btn btn-success">A button</button> *@
+            <a href="/GenerateCode" class= "btn btn-success" value="Generate Code!">Click me</a>
+        </div>
+    </div>
+</div>

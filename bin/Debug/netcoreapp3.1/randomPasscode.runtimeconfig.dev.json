@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\marth\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\marth\\.nuget\\packages"
+    ]
+  }
+}
